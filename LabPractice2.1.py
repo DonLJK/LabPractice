@@ -8,8 +8,6 @@ def main():
     calc_med(v1)
     calc_median_temperature(v1)
 
-
-
 def display_main_menu(v1):
     print("Values are:", v1)
     #print("display_main_menu")
