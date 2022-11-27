@@ -1,4 +1,5 @@
 def main():
+    print("ET0735 (DevOps for AIoT) - Lab 2 - Intro to Python")
     calculate(1.76, 60)
     #calculate(weight="1.76", height="60")
 
@@ -28,6 +29,5 @@ def calculate(height, weight):
 
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
